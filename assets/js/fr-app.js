@@ -269,7 +269,7 @@ try {
                 return false;
             }*/
             if (comments == "" || comments == null) {
-                document.getElementById('error-msg').innerHTML = "<div class='alert alert-warning error_message'>*Veuillez saisir un message*</div>";
+                document.getElementById('error-msg').innerHTML = "<div class='alert alert-warning error_message'>*Veuillez saisir un numero de téléphone*</div>";
                 fadeIn();
                 return false;
             }
