@@ -1,12 +1,12 @@
 {
 	"private": true,
-	"name": "RiadArtisan",
+	"name": "Riad_Artisan",
 	"version": "2.1.0",
-	"description": "Tailwind CSS Saas & Software Multipurpose Template",
+	"description": "Discover Moroccan Handcrafted treasures",
 	"main": "gulpfile.js",
-	"author": "ShreeThemes",
-	"email": "support@shreethemes.in",
-	"website": "https://shreethemes.in/",
+	"author": "RiadArtisan",
+	"email": "contact@riadartisan.com",
+	"website": "https://riadartisan.com",
 	"browserslist": [
 		"last 2 version",
 		"> 2%"
